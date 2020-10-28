@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "83716",
+      "name": "C",
+      "font_class": "letter-e-outline",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "2747931",
+      "name": "大于号",
+      "font_class": "dayuhao",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    }
+  ]
+}
